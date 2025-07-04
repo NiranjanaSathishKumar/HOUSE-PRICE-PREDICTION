@@ -1,3 +1,20 @@
-# HOUSE-PRICE-PREDICTION
+# 🏠 Indian House Price Prediction – ₹ INR (ML Project)
 
-This project uses a machine learning model to predict house prices in India based on key property features such as location, size, number of bedrooms, bathrooms, furnishing, and parking availability. The goal is to provide an accurate price estimate (in ₹ INR) to assist in real estate decision-making.
+This project predicts Indian house prices using ML based on location, size, number of bedrooms, bathrooms, parking, and furnishing status. The price is shown in INR.
+
+## Features
+- 📍 Location: Tier-based
+- 📐 Size: Sqft input
+- 🛏 Bedrooms, 🛁 Bathrooms
+- 🚗 Parking, 🪑 Furnishing status
+
+## Technologies Used
+- Python, scikit-learn, pandas, Streamlit
+
+## How to Run
+1. `pip install -r requirements.txt`
+2. `python model_training.py`
+3. `streamlit run app.py`
+
+## Author
+**NIRANJANA DEVI S** - ARTTIFAI TECH Internship Project
