@@ -1,6 +1,6 @@
-# 🏠 Indian House Price Prediction – ₹ INR (ML Project)
+# 🏠 House Price Prediction – ₹ INR (ML Project)
 
-This project predicts Indian house prices using ML based on location, size, number of bedrooms, bathrooms, parking, and furnishing status. The price is shown in INR.
+This project predicts house prices using ML based on location, size, number of bedrooms, bathrooms, parking, and furnishing status. The price is shown in INR.
 
 ## Features
 - 📍 Location: Tier-based
